@@ -1,4 +1,4 @@
-# Cockdle
+# Cockdle - The University of South Carolina's Wordle
 
 This is a clone project of the popular word guessing game we all know and love, but with a slight twist! Here, the answers are only University of South Carolina related.
 Made using React, Typescript, and Tailwind.
