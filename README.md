@@ -1,8 +1,11 @@
-# React Wordle
+# Cockdle
 
-This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
+This is a clone project of the popular word guessing game we all know and love, but with a slight twist! Here, the answers are only University of South Carolina related.
+Made using React, Typescript, and Tailwind.
 
 [**Try out the demo!**](https://reactle.vercel.app/)
+
+Big thank yous to the super talented [Hannah Park!](https://www.hannahmariepark.com/) Her original code was used as the basis for this project. Her code is [here!](https://github.com/cwackerfuss/react-wordle)
 
 ## Build and run
 
