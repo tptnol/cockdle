@@ -7,7 +7,7 @@ Made using React, Typescript, and Tailwind.
 
 Big thank yous to the super talented [Hannah Park!](https://www.hannahmariepark.com/) Her original code was used as the basis for this project. Her code is [here!](https://github.com/cwackerfuss/react-wordle)
 
-## Other projects built using Hannah Park's repositories :]
+## Other projects built using Hannah Park's repository :]
 
 ### Fun themes
 
